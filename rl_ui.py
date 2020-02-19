@@ -1,5 +1,4 @@
 from tkinter import *
-# from rl import State
 
 class RlUI(Frame):
     def __init__(self, master=None):
