@@ -1,8 +1,8 @@
 # RL
 
-This Project uses RL Algorithms and tkinter for visulize it and show.<br />
-This Project uses map which have some obstacles after traning with rate of 1000 our player know where obstacles is and it will
-find best route to its goal.
+This Project uses RL Algorithms and Tkinter for visualizing it.<br />
+This Project uses a map which has some obstacles after training with a rate of 1000 our player know where obstacles are and it will
+find the best route to its goal.
 
 # Screen shots
 ### input
